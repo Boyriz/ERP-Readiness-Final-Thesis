@@ -1,0 +1,167 @@
+[
+    {
+        "id" : 1,
+        "img" : "https://static01.nyt.com/images/2019/10/02/video/02-still-for-america-room-loop/02-still-for-america-room-loop-jumbo.jpg?quality=75&auto=webp",
+        "name" : "People Readiness Characteristic",
+        "initial" : {
+            "level" : 1,
+            "stage" : "INITIAL",
+            "images" : "https://thumbs.dreamstime.com/b/seamless-profile-people-pattern-stylish-men-women-various-hairstyles-young-elderly-characters-heads-modern-portraits-social-169287579.jpg",
+            "ex1" : "Manajemen jabatan belum cukup membantu dalam pengambilan keputusan",
+            "ex2" : "Tim projek belum mampu berbagi wawasan pengetahuan dengan baik ke antar tim",
+            "ex3" : "Projek belum mampu membuka inovasi dalam pengetahuan, teknologi, dan SDM eksternal",
+            "ex4" : "Tim projek belum mampu dalam berkomunikasi dengan baik antar tim",
+            "ex5" : "SDM belum memadai dalam mendukung pengembangan projek ERP."
+        },
+        "repeatable" : {
+            "level" : 2,
+            "stage" : "REPEATABLE",
+            "images" : "https://images.wallpaperscraft.com/image/single/society_people_crowd_128195_800x600.jpg",
+            "ex1" : "Manajemen jabatan cukup membantu dalam pengambilan keputusan",
+            "ex2" : "Tim projek kurang cukup mampu dalam berbagi wawasan pengetahuan dengan baik ke antar tim",
+            "ex3" : "Projek cukup mampu mengimplementasikan teknologi dari eksternal, namun menggunakan pengetahuan & SDM internal",
+            "ex4" : "Tim projek cukup mampu dalam berkomunikasi dengan baik antar tim",
+            "ex5" : "SDM cukup terbatas dalam mendukung pengembangan projek ERP."
+        },
+        "defined" : {
+            "level" :3,
+            "stage" : "DEFINED",
+            "images" : "https://images.wallpaperscraft.com/image/single/couple_love_sunset_128678_800x600.jpg",
+            "ex1" : "Manajemen jabatan sudah membantu dalam pengambilan keputusan, namun belum memiliki standar",
+            "ex2" : "Tim projek sudah cukup dalam berbagi wawasan mengenai projek dengan baik namun belum sesuai standar",
+            "ex3" : "Projek mampu mengimplementasikan teknologi dan pengetahuan dari eksternal namun terstandarisasikan",
+            "ex4" : "Tim projek sudah dapat berkomunikasi dengan baik namun belum sesuai dengan standar SOP",
+            "ex5" : "SDM memadai namun belum sesuai standar perusahaan dalam mendukung pengembangan projek ERP."
+        },
+        "managed" : {
+            "level" : 4,
+            "stage" : "MANAGED",
+            "images" : "https://images.wallpaperscraft.com/image/single/people_live_hands_80419_800x600.jpg",
+            "ex1" : "Manajemen jabatan sangat membantu dalam pengambilan keputusan dan sudah sesuai dengan standar namun belum dilakukan evaluasi",
+            "ex2" : "Tim projek sudah sangat cukup dalam berbagi wawasan pengetahuan dan sudah sesuai dengan standar namun belum dilakukan evaluasi",
+            "ex3" : "Projek sudah terorganisisr dengan menggabungkan pengetahuan, teknologi, dan SDM eksternal serta sudah sesuai dengan standar namun belum dilakukan evaluasi",
+            "ex4" : "Tim projek sudah dapat berkomunikasi dengan baik dengan antar tim dan sudah sesuai dengan standar SOP namun belum dilakukan evaluasi",
+            "ex5" : "SDM tersedia dan sudah terstandarisasi namun belum dilakukan evaluasi dalam mendukung pengembangan projek ERP."
+        },
+        "optimized" : {
+            "level" : 5,
+            "stage" : "OPTIMIZED",
+            "images" : "https://wallpapers.net/person-tying-ribbon-on-purple-gift-box-hd-wallpaper/download/800x600.jpeg",
+            "ex1" : "Manajemen jabatan sangat membantu dengan penggunaan business intelligence, sudah terstandarisasi, dan dapat melakukan evaluasi",
+            "ex2" : "Tim projek sudah sangat cukup dalam berbagi wawasan mengenai projek, sudah terstandarisasi, dan dapat melakukan evaluasi",
+            "ex3" : "Projek sudah terorganisir dalam mengandalkan sumber eksternal mengadopsi risk-taking behavior, terstandarisasi, dan dapat melakukan evaluasi",
+            "ex4" : "Tim projek sangat cukup dalam berkomunikasi dengan baik, sesuai dengan standar SOP, dan dapat melakukan evaluasi",
+            "ex5" : "SDM tersedia, sudah terstandarisasi, sudah dilakukan evaluasi, dan berpengalaman dalam projek ERP."
+        }
+    },
+    {
+        "id" : 2,
+        "img" : "https://www.cio.com/wp-content/uploads/2023/02/hand_controls_interconnecting_gears_process_automation_machinery_mechanism_efficiency_by_anawat_s_gettyimages-1163061322_2400x1600-100858595-orig-2.jpg?resize=1024%2C683&quality=50&strip=all",
+        "name" : "Process Readiness Characteristic",
+        "initial" : {
+            "level" : 1,
+            "stage" : "INITIAL",
+            "images" : "https://images.wallpaperscraft.com/image/single/microchip_processor_electronics_164983_800x600.jpg",
+            "ex1" : "Integrasi proses bisnis belum terintegrasi dengan baik",
+            "ex2" : "Penggunaan Risk Management belum berdampak dalam proses pengembangan projek",
+            "ex3" : "Penjadwalan belum sejalan dengan projek scope",
+            "ex4" : "Evaluasi belum mampu mengembangkan logika program dan kebutuhan ulasan",
+            "ex5" : "KPI belum mampu mengidentifikasi target pengukuran"
+        },
+        "repeatable" : {
+            "level" : 2,
+            "stage" : "REPEATABLE",
+            "images" : "https://images.wallpaperscraft.com/image/single/squares_reflection_abstraction_225651_800x600.jpg",
+            "ex1" : "Integrasi proses bisnis cukup terintegrasi namun baru fungsional pada satu departemen",
+            "ex2" : "Penggunaan Risk Management cukup berdampak dalam proses pengembangangan projek",
+            "ex3" : "Penjadwalan sudah cukup sejalan dengan project objectives dan requirements",
+            "ex4" : "Evaluasi sudah cukup mengembangkan ringkasan yang dibutuhkan",
+            "ex5" : "KPI cukup mampu mengidentifikasi target pengukuran"
+        },
+        "defined" : {
+            "level" :3,
+            "stage" : "DEFINED",
+            "images" : "https://images.wallpaperscraft.com/image/single/silhouette_portal_light_139483_800x600.jpg",
+            "ex1" : "Integrasi proses bisnis sudah terintegrasi namun belum terstandarisasikan",
+            "ex2" : "Penggunaan Risk Management berdampak namun belum memenuhi standar",
+            "ex3" : "Penjadwalan sudah sejalan namun belum sesuai standar",
+            "ex4" : "Evaluasi sudah mampu memberikan penugasan berdasarkan ringkasan namun belum sesuai standar",
+            "ex5" : "KPI sudah mampu mengidentifikasi target namun belum sesuai dengan standar"
+        },
+        "managed" : {
+            "level" : 4,
+            "stage" : "MANAGED",
+            "images" : "https://images.wallpaperscraft.com/image/single/laptop_cup_glasses_114948_800x600.jpg",
+            "ex1" : "Integrasi proses bisnis sudah terintegrasi dan sesuai standar namun belum dilakukan evaluasi",
+            "ex2" : "Penggunaan Risk Management berdampak dan sudah memenuhi standar namun belum dapat melakukan evaluasi",
+            "ex3" : "Penjadwalan sudah sejalan dan sesuai dengan standar namun belum dilakukan evaluasi",
+            "ex4" : "Evaluasi sudah mampu dilakukan dengan sistematis dan sesuai standar namun belum dilakukan evaluasi",
+            "ex5" : "KPI sudah mampu mengidentifikasi tergaet pengukuran dan sesuai standar namun belum dilakuakn evaluasi"
+        },
+        "optimized" : {
+            "level" : 5,
+            "stage" : "OPTIMIZED",
+            "images" : "https://images.wallpaperscraft.com/image/single/hourglass_stones_blur_120797_800x600.jpg",
+            "ex1" : "Integrasi proses bisnis sudah terintegrasi dan sesuai standar namun belum dilakukan evaluasi",
+            "ex2" : "Penggunaan Risk Management sangat berdampak dan sudah memenuhi standar serta dapat melakukan evaluasi",
+            "ex3" : "Penjadwalan sudah sejalan, terstandarisasikan, dan telah melakukan evaluasi",
+            "ex4" : "Evaluasi sudah mampu menghasilkan laporan yang relevan, sesuai standar, dan terevaluasi",
+            "ex5" : "KPI sudah mampu memberikan hasil assessment untuk setiap indikator, sesuai standar, dan dapat dilakukan evaluasi"
+        }
+    },
+    {
+        "id" : 3,
+        "img" : "https://imageio.forbes.com/specials-images/imageserve/5ef3f7eec4f2390006f0c356/GUI--Graphical-User-Interface--concept-/960x0.jpg?format=jpg&width=960",
+        "name" : "Technology Readiness Characteristic",
+        "initial" : {
+            "level" : 1,
+            "stage" : "INITIAL",
+            "images" : "https://images.wallpaperscraft.com/image/single/binary_code_code_numbers_147523_800x600.jpg",
+            "ex1" : "IS belum mampu memiliki fungsi untuk identifikasi sistem yang dibutuhkan",
+            "ex2" : "DBS yang digunakan belum mampu terintegrasi dengan baik pada sistem",
+            "ex3" : "ERP system untuk modul produksi belum mampu mempersiapkan projek milestones dan kebutuhan aplikasi",
+            "ex4" : "PPC belum mampu membuat perencanaan produksi dan analisa kebutuhan sistem",
+            "ex5" : "OS yang dipilih belum mampu memenuhi kebutuhan implementasi ERP modul produksi"
+        },
+        "repeatable" : {
+            "level" : 2,
+            "stage" : "REPEATABLE",
+            "images" : "https://images.wallpaperscraft.com/image/single/code_text_colorful_140555_800x600.jpg",
+            "ex1" : "IS sudah cukup memiliki fungsi identifikasi, seleksi, dan perencanaan",
+            "ex2" : "DBS sudah mulai terintegrasi dan cukup mampu menganalisa kebutuhan data dan menghasilkan model data konseptual",
+            "ex3" : "ERP system untuk modul produksi cukup mampu dalam analisis kebutuhan bisnis dan proses workflow",
+            "ex4" : "PPC sudah cukup mampu membuat perencanaan produksi dan analisa serta sudah ditahapan Routing dalam menentukan rute operasi",
+            "ex5" : "OS yang dipilih cukup mampu memenuhi kebutuhan implementasi ERP modul produksi"
+        },
+        "defined" : {
+            "level" :3,
+            "stage" : "DEFINED",
+            "images" : "https://images.wallpaperscraft.com/image/single/control_panel_monitor_equipment_204539_800x600.jpg",
+            "ex1" : "IS sudah cukup memiliki fungsi dalam analisis kebutuhan sistem dan memecahkan beberapa permasalahan namun belum terstandarisasikan",
+            "ex2" : "TDBS sudah terintegrasi dan sudah mampu menghasilkan spesifikasi skema logis namun belum sesuai dengan standar",
+            "ex3" : "ERP system untuk modul produksi mampu migrating data ke dalam sistem serta menampilkan verifikasi namun belum terstandarisasikan",
+            "ex4" : "PPC sudah mampu membuat perencanaan produksi dan sudah ditahapan Scheduling hasil Routing namun belum terstandarisasikan",
+            "ex5" : "OS yang dipilih sudah mampu memenuhi dan mendukung kebutuhan fungsi implementasi ERP modul produksi namun belum sesuai standar"
+        },
+        "managed" : {
+            "level" : 4,
+            "stage" : "MANAGED",
+            "images" : "https://images.wallpaperscraft.com/image/single/laptop_dj_equipment_212416_800x600.jpg",
+            "ex1" : "IS sudah mampu memiliki fungsi dalam mengembangkan sistem yang dibutuhkan, sudah sesuai standar, namun belum dilakukan evaluasi",
+            "ex2" : "DBS sudah terintegrasi dan terstandarisasi namun belum dilakukan evaluasi",
+            "ex3" : "ERP system untuk modul produksi sudah terintegrasi dan terstandarisasi namun belum dilakukan evaluasi dalam pengembangan projek",
+            "ex4" : "PPC sudah mampu membuat perencanaan produksi dan sudah ditahapan Dispatching dan sudah sesuai dengan standar namun belum dilakuakan evaluasi",
+            "ex5" : "OP yang dipilih sudah mampu memiliki tingkat fleksibilitas yang tinggi dalam beradaptasi dan sudah terstandarisasikan namun belum dapat melakukan evaluasi"
+        },
+        "optimized" : {
+            "level" : 5,
+            "stage" : "OPTIMIZED",
+            "images" : "https://images.wallpaperscraft.com/image/single/interface_code_lock_222667_800x600.jpg",
+            "ex1" : "IS sudah mampu memiliki fungsi dalam implementasi, testing, dan kelola sistem sesuai dengan hasil yang dibutuhkan, terstandarisasi, dan dapat melakukan evaluasi",
+            "ex2" : "DBS terintegrasi mampu digunakan berdasarkan fungsi yang dibutuhkan dan sudah sesuai dengan standar serta dapat melakukan evaluasi",
+            "ex3" : "ERP system untuk modul produksi sudah ditahapan Software Development, sudah terstandarisasi, dan dapat melakukan proses evaluasi",
+            "ex4" : "PPC sudah berhasil sampai ditahapan Follow-up, terstandarisasi, dan dapat melakukan evaluasi hasil controlling serta memberikan solusi atas permasalahan yang didapat",
+            "ex5" : "OS yang dipilih sudah terintegrasi, terstandariasi, dan berhasil melakukan proses evaluasi"
+        }
+    }
+]

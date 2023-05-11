@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "img" : "https://www.keypersonofinfluence.com/wp-content/uploads/2015/10/man-writing-checklist-whiteboard-887x541.jpg",
+        "name" : "People Readiness Checklist"
+    },
+    {
+        "id" : 2,
+        "img" : "https://greatlakesadvisory.com/wp-content/uploads/2022/04/Process-map-symbols.jpg",
+        "name" : "Process Readiness Checklist"
+    },
+    {
+        "id" : 3,
+        "img" : "https://assets.ey.com/content/dam/ey-sites/ey-com/en_ie/topics/assurance/ey-mature-businessman-with-a-robot.jpg.rendition.690.460.jpg",
+        "name" : "Technology Readiness Checklist"
+    }
+]

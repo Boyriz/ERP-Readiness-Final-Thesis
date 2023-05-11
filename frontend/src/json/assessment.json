@@ -1,0 +1,743 @@
+[
+    {
+        "id" : 1,
+        "img" : "https://www.americamagazine.org/sites/default/files/main_image/neonbrand-Ak5c5VTch5E-unsplash.jpg",
+        "name" : "People Assessment",
+        "questions" : [
+            {
+                "id" : 1,
+                "text" : "Crucial Roles (Top Management Support)",
+                "ask" : "Dalam mencapai kesiapan implementasi ERP modul produksi, bagaimana penilaian anda terhadap peran Top Management Support dalam pengembangan projek ERP?",
+                "picture" : "https://visme.co/blog/wp-content/uploads/2020/09/Header-1200-1-1.png",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label" : "A",
+                        "value" : "Peran Top Management Support belum cukup membantu dalam pengambilan keputusan untuk pengembangan projek",
+                        "level" : "INITIAL",
+                        "score" : 10,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 2,
+                        "label" : "B",
+                        "value" : "Peran Top Management Support cukup membantu dalam pengambilan keputusan untuk pengembangan projek",
+                        "level" : "REPEATABLE",
+                        "score" : 20,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 3,
+                        "label" : "C",
+                        "value" : "Peran Top Management Support sudah membantu pengambilan keputusan namun belum memiliki standar untuk pengembangan projek",
+                        "level" : "DEFINED",
+                        "score" : 30,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 4,
+                        "label" : "D",
+                        "value" : "Peran Top Management Support sangat membantu dalam pengambilan keputusan dan sudah sesuai dengan standar namun belum dilakukan evaluasi untuk pengembangan projek",
+                        "level" : "MANAGED",
+                        "score" : 40,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 5,
+                        "label" : "E",
+                        "value" : "Peran Top Management Support sangat membantu dengan penggunaan business intelligence dalam pengambilan keputusan, sudah terstandarisasi, dan dapat melakukan evaluasi dalam pengambilan keputusan untuk pengembangan projek",
+                        "level" : "OPTIMIZED",
+                        "score" : 50,
+                        "type" : "people"
+                    }
+                ]
+            },
+            {
+                "id" : 2,
+                "text" : "Sharing of Knowledge",
+                "ask" : "Dalam mencapai kesiapan implementasi ERP modul produksi, bagaimana penilaian anda terhadap peran Sharing of Knowledge atau berbagi wawasan antar tim yang baik digunakan dalam pengembangan projek ERP?",
+                "picture" : "https://media.istockphoto.com/id/1185184208/vector/transmitting-light-bulbs-between-merchants.jpg?s=612x612&w=0&k=20&c=0hmpXP7GkmLY_zCE7P0kj2ZjC83eJBzyHZbK_Jeb2PI=",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label" : "A",
+                        "value" : "Tim projek belum mampu berbagi wawasan pengetahuan dengan baik mengenai projek ke antar tim",
+                        "level" : "INITIAL",
+                        "score" : 10,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 2,
+                        "label" : "B",
+                        "value" : "Tim projek cukup mampu dalam berbagi wawasan pengetahuan dengan baik mengenai projek ke antar tim",
+                        "level" : "REPEATABLE",
+                        "score" : 20,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 3,
+                        "label" : "C",
+                        "value" : "Tim projek sudah cukup dalam berbagi wawasan pengetahuan mengenai projek dengan baik ke antar tim namun belum sesuai standar",
+                        "level" : "DEFINED",
+                        "score" : 30,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 4,
+                        "label" : "D",
+                        "value" : "Tim projek sudah sangat cukup dalam berbagi wawasan pengetahuan mengenai projek dengan baik ke antar tim dan sudah sesuai standar namun belum dapat melakukan evaluasi",
+                        "level" : "MANAGED",
+                        "score" : 40,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 5,
+                        "label" : "E",
+                        "value" : "Tim projek sudah sangat cukup dalam berbagi wawasan pengetahuan mengenai projek dengan baik ke antar tim, sudah terstandarisasi, dan sudah dapat melakukan evaluasi",
+                        "level" : "OPTIMIZED",
+                        "score" : 50,
+                        "type" : "people"
+                    }
+                ]
+            },
+            {
+                "id" : 3,
+                "text" : "Open Innovation",
+                "ask" : "Dalam mencapai kesiapan implementasi ERP modul produksi, bagaimana penilaian anda terhadap peran Open Innovation dalam perusahaan dikembangkan untuk pengembangan projek ERP?",
+                "picture" : "https://www.iberdrola.com/documents/20125/86407/Colaboracion_Organizaciones_Proyectos_Innovacion_746x419.jpg/8b1bf1d1-4b78-d074-ca85-5ce95fd207e8",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label" : "A",
+                        "value" : "Projek belum mampu membuka inovasi dalam pengetahuan, teknologi, dan sumber daya dari eksternal dalam menyelesaikan projek ERP",
+                        "level" : "INITIAL",
+                        "score" : 10,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 2,
+                        "label" : "B",
+                        "value" : "Projek cukup mampu mengimplementasikan teknologi dari eksternal, namun masih menggunakan pengetahuan dan SDM internal perusahaan dalam menyelesaikan projek ERP",
+                        "level" : "REPEATABLE",
+                        "score" : 20,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 3,
+                        "label" : "C",
+                        "value" : "Projek mampu mengimplementasikan teknologi dan pengetahuan dari luar namun belum sesuai dengan standar perusahaan dalam menyelesaikan projek ERP",
+                        "level" : "DEFINED",
+                        "score" : 30,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 4,
+                        "label" : "D",
+                        "value" : "Projek sudah terorganisir dengan menggabungkan pengetahuan, teknologi, dan sumber daya internal dengan eksternal serta sudah sesuai dengan standar perusahaan namun belum dilakukan evaluasi dalam menyelesaikan projek ERP",
+                        "level" : "MANAGED",
+                        "score" : 40,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 5,
+                        "label" : "E",
+                        "value" : "Projek sudah terorganisir dalam mengandalkan sumber eksternal seperti feedback client, kompetitor, dan hasil riset dengan mengadopsi variabel risk-taking behavior, terstandarisasi, dan sudah melakukan evaluasi dalam menyelesaikan projek ERP",
+                        "level" : "OPTIMIZED",
+                        "score" : 50,
+                        "type" : "people"
+                    }
+                ]
+            },
+            {
+                "id" : 4,
+                "text" : "Communication Management",
+                "ask" : "Dalam mencapai kesiapan implementasi ERP modul produksi, bagaimana penilaian anda terhadap peran Communication Management untuk dapat berkomunikasi dengan baik dalam pengembangan projek ERP?",
+                "picture" : "https://www.celoxis.com/cassets/img/pmc/communicating.png",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label" : "A",
+                        "value" : "Tim projek belum mampu dalam berkomunikasi dengan baik antar tim dalam menyelesaikan projek ERP",
+                        "level" : "INITIAL",
+                        "score" : 10,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 2,
+                        "label" : "B",
+                        "value" : "Tim projek cukup mampu dalam berkomunikasi dengan baik antar tim dalam menyelesaikan projek ERP",
+                        "level" : "REPEATABLE",
+                        "score" : 20,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 3,
+                        "label" : "C",
+                        "value" : "Tim projek sudah dapat berkomunikasi baik antar tim namun belum sesuai dengan standar SOP perusahaan dalam menyelesaikan projek ERP",
+                        "level" : "DEFINED",
+                        "score" : 30,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 4,
+                        "label" : "D",
+                        "value" : "Tim projek sudah dapat berkomunikasi dengan baik dengan antar tim dan sudah sesuai dengan standar SOP perusahaan namun belum dilakukan evaluasi dalam menyelesaikan projek ERP",
+                        "level" : "MANAGED",
+                        "score" : 40,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 5,
+                        "label" : "E",
+                        "value" : "Tim projek sudah sangat cukup dalam berkomunikasi dengan baik antar tim, sudah sesuai dengan standar SOP perusahaan, dan dapat melakukan evaluasi dalam menyelesaikan projek ERP",
+                        "level" : "OPTIMIZED",
+                        "score" : 50,
+                        "type" : "people"
+                    }
+                ]
+            },
+            {
+                "id" : 5,
+                "text" : "Human Resources Management",
+                "ask" : "Dalam mencapai kesiapan implementasi ERP modul produksi, bagaimana penilaian anda terhadap Sumber Daya Manusia (SDM) di dalam perusahaan?",
+                "picture" : "https://t4.ftcdn.net/jpg/03/91/64/51/360_F_391645127_Z02luwZD8RgDMaRcmROiWep611QgXAtw.jpg",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label" : "A",
+                        "value" : "SDM belum memadai dalam mendukung pengembangan projek ERP",
+                        "level" : "INITIAL",
+                        "score" : 10,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 2,
+                        "label" : "B",
+                        "value" : "SDM cukup terbatas dalam mendukung pengembangan projek ERP",
+                        "level" : "REPEATABLE",
+                        "score" : 20,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 3,
+                        "label" : "C",
+                        "value" : "SDM memadai namun belum sesuai standar perusahaan dalam mendukung pengembangan projek ERP",
+                        "level" : "DEFINED",
+                        "score" : 30,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 4,
+                        "label" : "D",
+                        "value" : "SDM tersedia dan sudah terstandarisasi namun belum dilakukan evaluasi dalam mendukung pengembangan projek ERP",
+                        "level" : "MANAGED",
+                        "score" : 40,
+                        "type" : "people"
+                    },
+                    {
+                        "id" : 5,
+                        "label" : "E",
+                        "value" : "SDM tersedia, sudah terstandarisasi, sudah dilakukan evaluasi, dan berpengalaman dalam projek ERP",
+                        "level" : "OPTIMIZED",
+                        "score" : 50,
+                        "type" : "people"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 2,
+        "img" : "https://www.caplinked.com/wp-content/uploads/elementor/thumbs/technical-due-diligence-1024x682-1-q0a1qa17xsjfsmyvf1zgc6pthobeglpjbci5ud0vqw.jpg",
+        "name" : "Process Assessment",
+        "questions" : [
+            {
+                "id" : 1,
+                "text" : "Integrated Business Process",
+                "ask" : "Dalam mencapai kesiapan implementasi ERP modul produksi, bagaimana penilaian anda terhadap Integrasi proses bisnis dalam pengembangan projek ERP?",
+                "picture" : "https://media.istockphoto.com/id/1149476968/vector/business-process.jpg?s=612x612&w=0&k=20&c=mLM2HDmafHqtGZTaGS6ro5FZ-SZEJCDm2r0X8bwRJZ0=",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label" : "A",
+                        "value" : "Integrasi proses bisnis belum terintegrasi dengan baik dalam pengembangan projek",
+                        "level" : "INITIAL",
+                        "score" : 10,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 2,
+                        "label" : "B",
+                        "value" : "Integrasi proses bisnis sudah cukup terintegrasi namun beru dalam fungsional pada satu departemen dalam pengembangan projek",
+                        "level" : "REPEATABLE",
+                        "score" : 20,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 3,
+                        "label" : "C",
+                        "value" : "Integrasi proses bisnis sudah terintegrasi namun belum terstandarisasikan pada lintas departemen dalam pengembangan projek",
+                        "level" : "DEFINED",
+                        "score" : 30,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 4,
+                        "label" : "D",
+                        "value" : "Integrasi proses bisnis sudah terintegrasi dan sesuai standar namun belum dilakukan evaluasi pada lintas departemen dalam pengembangan projek",
+                        "level" : "MANAGED",
+                        "score" : 40,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 5,
+                        "label" : "E",
+                        "value" : "Integrasi proses bisnis sudah distandarisasikan dan diintegrasikan secara menyeluruh serta terevaluasi dengan baik pada semua departemen dalam pengembangan projek",
+                        "level" : "OPTIMIZED",
+                        "score" : 50,
+                        "type" : "process"
+                    }
+                ]
+            },
+            {
+                "id" : 2,
+                "text" : "Risk Management",
+                "ask" : "Dalam mencapai kesiapan implementasi ERP modul produksi, bagaimana penilaian anda terhadap peran Risk Management dalam pengembangan projek ERP?",
+                "picture" : "https://st2.depositphotos.com/4428871/6735/i/950/depositphotos_67351205-stock-photo-risk-management.jpg",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label" : "A",
+                        "value" : "Penggunaan Risk Management belum berdampak dalam proses pengembangan projek dilihat dari hanya penilaian resiko",
+                        "level" : "INITIAL",
+                        "score" : 10,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 2,
+                        "label" : "B",
+                        "value" : "Penggunaan Risk Management cukup berdampak dalam proses pengembangan projek dilihat dari penilaian dan identifikasi resiko",
+                        "level" : "REPEATABLE",
+                        "score" : 20,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 3,
+                        "label" : "C",
+                        "value" : "Penggunaan Risk Management berdampak namun belum memenuhi standar dalam proses pengembangan projek",
+                        "level" : "DEFINED",
+                        "score" : 30,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 4,
+                        "label" : "D",
+                        "value" : "Penggunaan Risk Management berdampak dan sudah  memenuhi standar namun belum dapat melakukan evaluasi dalam proses pengembangan projek",
+                        "level" : "MANAGED",
+                        "score" : 40,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 5,
+                        "label" : "E",
+                        "value" : "Penggunaan Risk Management sangat berdampak dan sudah memenuhi standar serta dapat melakukan evaluasi dalam proses pengembangan projek",
+                        "level" : "OPTIMIZED",
+                        "score" : 50,
+                        "type" : "process"
+                    }
+                ]
+            },
+            {
+                "id" : 3,
+                "text" : "Use of Good Scheduling",
+                "ask" : "Dalam mencapai kesiapan implementasi ERP modul produksi, bagaimana penilaian anda terhadap Scheduling atau penjadwalan dalam pengembangan projek ERP?",
+                "picture" : "https://thumbs.dreamstime.com/b/scheduling-word-cloud-concept-grey-background-88381050.jpg",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label" : "A",
+                        "value" : "Penjadwalan belum sejalan dengan project scope dalam pengembangan projek",
+                        "level" : "INITIAL",
+                        "score" : 10,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 2,
+                        "label" : "B",
+                        "value" : "Penjadwalan sudah cukup sejalan dengan project objectives dan requirements dalam pengembangan project",
+                        "level" : "REPEATABLE",
+                        "score" : 20,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 3,
+                        "label" : "C",
+                        "value" : "Penjadwalan sudah sejalan namun belum sesuai standar dalam pengembangan projek",
+                        "level" : "DEFINED",
+                        "score" : 30,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 4,
+                        "label" : "D",
+                        "value" : "Penjadwalan sudah sejalan dan sesuai dengan standar namun belum dilakukan evaluasi dalam pengembangan projek",
+                        "level" : "MANAGED",
+                        "score" : 40,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 5,
+                        "label" : "E",
+                        "value" : "Penjadwalan sudah sejalan, terstandarisasikan dan telah melakukan evaluasi pengembangan projek",
+                        "level" : "OPTIMIZED",
+                        "score" : 50,
+                        "type" : "process"
+                    }
+                ]
+            },
+            {
+                "id" : 4,
+                "text" : "Evaluation of Project",
+                "ask" : "Dalam mencapai kesiapan implementasi ERP modul produksi, bagaimana penilaian anda terhadap evaluasi dalam pengembangan projek?",
+                "picture" : "https://blogger.googleusercontent.com/img/a/AVvXsEgWYjQ5bom6LpjRroINlfo7eTiWEvKzADn-XaUbfKxqT91Gl_0w3bKDhf8sHPY9mDsljwIFhRiiZ-cnidYu-yZSNL2Qkln2jBKfBZBb8kllnKWiI5NySWmn5LYSB8CdiF7J9tRL4j1NTwqPSz1oS0CDOo9WbaMKNEFIQELCSiLx9ZZuQ0HoOcoawLVgYg=w400-h200",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label" : "A",
+                        "value" : "Evaluasi belum mampu mengembangkan logika program dan kebutuhan ulasan dalam pengembangan projek",
+                        "level" : "INITIAL",
+                        "score" : 10,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 2,
+                        "label" : "B",
+                        "value" : "Evaluasi sudah cukup mengembangkan ringkasan yang dibutuhkan dalam pengembangan projek",
+                        "level" : "REPEATABLE",
+                        "score" : 20,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 3,
+                        "label" : "C",
+                        "value" : "Evaluasi sudah mampu memberikan penugasan berdasarkan ringkasan evaluasi namun belum sesuai standar dalam pengembangan projek",
+                        "level" : "DEFINED",
+                        "score" : 30,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 4,
+                        "label" : "D",
+                        "value" : "Evaluasi sudah mampu dilakukan dengan sistematis dan sesuai dengan standar namun belum dilakukan evaluasi dalam pengembangan projek",
+                        "level" : "MANAGED",
+                        "score" : 40,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 5,
+                        "label" : "E",
+                        "value" : "Evaluasi sudah mampu menghasilkan laporan yang relevan, terstandarisasi, dan terevaluasi dalam mengembangkan projek",
+                        "level" : "OPTIMIZED",
+                        "score" : 50,
+                        "type" : "process"
+                    }
+                ]
+            },
+            {
+                "id" : 5,
+                "text" : "Use of Key Performance Indicator (KPI)",
+                "ask" : "Dalam mencapai kesiapan implementasi ERP modul produksi, bagaimana penilaian anda terhadap peran KPI atau Key Performance Indicator dalam pengembangan projek ERP?",
+                "picture" : "https://soundbytes2blog.files.wordpress.com/2018/07/what-are-key-performance-indicators-kpis.png",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label" : "A",
+                        "value" : "KPI belum mampu mengidentifikasi target pengukuran dalam pengembangan projek",
+                        "level" : "INITIAL",
+                        "score" : 10,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 2,
+                        "label" : "B",
+                        "value" : "KPI cukup mampu mengidentifikasi target pengukuran dalam pengembangan projek",
+                        "level" : "REPEATABLE",
+                        "score" : 20,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 3,
+                        "label" : "C",
+                        "value" : "KPI sudah mampu mengidentifikasi target pengukuran namun belum sesuai dengan standar dalam pengembangan projek",
+                        "level" : "DEFINED",
+                        "score" : 30,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 4,
+                        "label" : "D",
+                        "value" : "KPI sudah mampu mengidentifikasi target pengukuran dan sudah sesuai standar dalam pengujian namun belum dilakukan evaluasi dalam pengembangan projek",
+                        "level" : "MANAGED",
+                        "score" : 40,
+                        "type" : "process"
+                    },
+                    {
+                        "id" : 5,
+                        "label" : "E",
+                        "value" : "KPI sudah mampu memberikan hasil assessment untuk setiap indikator, sesuai standar pengujian, dan dapat dilakukan evaluasi dalam pengembangan projek",
+                        "level" : "OPTIMIZED",
+                        "score" : 50,
+                        "type" : "process"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id" : 3,
+        "img" : "https://www.homecareinsight.co.uk/2020/07/connected-technology.jpg",
+        "name" : "Technology Assessment",
+        "questions" : [
+            {
+                "id" : 1,
+                "text" : "The use of Information System",
+                "ask" : "Dalam mencapai kesiapan implementasi ERP modul produksi, bagaimana penilaian anda terhadap peran Information System (IS) dalam pengembangan projek ERP?",
+                "picture" : "https://newinti.edu.my/wp-content/uploads/2021/02/information-system.jpg",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label" : "A",
+                        "value" : "IS belum mampu memiliki fungsi untuk identifikasi sistem yang dibutuhkan dalam pengembangan projek",
+                        "level" : "INITIAL",
+                        "score" : 10,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 2,
+                        "label" : "B",
+                        "value" : "IS sudah cukup memiliki fungsi dalam identifikasi, seleksi, dan perencanaan dalam pengembangan projek",
+                        "level" : "REPEATABLE",
+                        "score" : 20,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 3,
+                        "label" : "C",
+                        "value" : "IS sudah cukup memiliki fungsi dalam analisis kebutuhan sistem dan memecahkan permasalahan namun belum sesuai dengan standar dalam pengembangan projek",
+                        "level" : "DEFINED",
+                        "score" : 30,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 4,
+                        "label" : "D",
+                        "value" : "IS sudah mampu memiliki fungsi dalam mengembangkan sistem yang dibutuhkan, sudah sesuai standar, namun belum dilakukan evaluasi dalam pengembangan projek",
+                        "level" : "MANAGED",
+                        "score" : 40,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 5,
+                        "label" : "E",
+                        "value" : "IS sudah mampu memiliki fungsi dalam implementasi, testing, dan kelola sistem sesuai dengan hasil yang diinginkan, terstandarisasi, dan dapat melakukan evaluasi dalam pengembangan projek",
+                        "level" : "OPTIMIZED",
+                        "score" : 50,
+                        "type" : "technology"
+                    }
+                ]
+            },
+            {
+                "id" : 2,
+                "text" : "The use of Database System",
+                "ask" : "Dalam mencapai kesiapan implementasi ERP modul produksi, bagaimana penilaian anda terhadap peran Database System (DBS) dalam pengembangan projek ERP?",
+                "picture" : "https://s7280.pcdn.co/wp-content/uploads/2016/06/database-blue.png",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label" : "A",
+                        "value" : "DBS yang digunakan belum mampu terintegrasi dengan baik pada sistem dalam pengembangan projek",
+                        "level" : "INITIAL",
+                        "score" : 10,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 2,
+                        "label" : "B",
+                        "value" : "DBS sudah mulai terintegrasi dan cukup mampu menganalisa kebutuhan data dan menghasilkan model data konseptual dalam pengembangan projek",
+                        "level" : "REPEATABLE",
+                        "score" : 20,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 3,
+                        "label" : "C",
+                        "value" : "DBS sudah terintegrasi dan sudah mampu menghasilkan spesifikasi skema logis namun belum sesuai standar dalam pengembangan projek",
+                        "level" : "DEFINED",
+                        "score" : 30,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 4,
+                        "label" : "D",
+                        "value" : "DBS sudah terintegrasi dan terstandarisasi dengan baik ke dalam sistem namun belum dilakukan evaluasi dalam pengembangan projek",
+                        "level" : "MANAGED",
+                        "score" : 40,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 5,
+                        "label" : "E",
+                        "value" : "DBS terintegrasi mampu digunakan berdasarkan fungsi yang dibutuhkan dan sudah sesuai standar serta dapat melakukan evaluasi dalam pengembangan projek",
+                        "level" : "OPTIMIZED",
+                        "score" : 50,
+                        "type" : "technology"
+                    }
+                ]
+            },
+            {
+                "id" : 3,
+                "text" : "ERP Management System for Production",
+                "ask" : "Dalam mencapai kesiapan implementasi ERP modul produksi, bagaimana penilaian anda terhadap manajemen sistem ERP untuk produksi dalam pengembangan projek ERP?",
+                "picture" : "https://www.cxtoday.com/wp-content/uploads/2022/11/erp-system-850.jpg",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label" : "A",
+                        "value" : "Sistem ERP untuk produks belum mampu mempersiapkan projek milestones dan kebutuhan aplikasi dalam pengembangan projek",
+                        "level" : "INITIAL",
+                        "score" : 10,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 2,
+                        "label" : "B",
+                        "value" : "Sistem ERP untuk produk cukup mampu dalam analisis kebutuhan bisnis dan proses workflow dalam pengembangan projek",
+                        "level" : "REPEATABLE",
+                        "score" : 20,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 3,
+                        "label" : "C",
+                        "value" : "Sistem ERP untuk produksi mampu migrating data dan mapping data ke dalam sistem serta menampilkan verifikasi namun belum terstandarisasikan dalam pengembangan projek",
+                        "level" : "DEFINED",
+                        "score" : 30,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 4,
+                        "label" : "D",
+                        "value" : "Sistem ERP untuk produksi sudah terintegrasi dan terstandarisasi namun belum dilakukan evaluasi dalam pengembangan projek",
+                        "level" : "MANAGED",
+                        "score" : 40,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 5,
+                        "label" : "E",
+                        "value" : "Sistem ERP untuk modul produksi sudah ditahapan software development, sduah terstandarisasi, dan dapat melakukan proses evaluasi dalam pengembangan projek.",
+                        "level" : "OPTIMIZED",
+                        "score" : 50,
+                        "type" : "technology"
+                    }
+                ]
+            },
+            {
+                "id" : 4,
+                "text" : "The use of Production Planning Control (PPC)",
+                "ask" : "Dalam mencapai kesiapan implementasi ERP modul produksi, bagaimana penilaian anda terhadap peran Production Planning Control (PPC) dalam pengembangan ERP?",
+                "picture" : "https://www.plm.automation.siemens.com/media/global/es/simatic-it-preactor-sb-640x360_tcm54-95973.jpg",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label" : "A",
+                        "value" : "PPC belum mampu membuat perencanaan produksi dan analisa kebutuhan sistem dalam pengembangan projek",
+                        "level" : "INITIAL",
+                        "score" : 10,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 2,
+                        "label" : "B",
+                        "value" : "PPC sudah cukup mampu membuat perencanaan produksi dan analisa serta sudah ditahapan Routing untuk menentukan rute operasi produksi dalam pengembangan projek",
+                        "level" : "REPEATABLE",
+                        "score" : 20,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 3,
+                        "label" : "C",
+                        "value" : "PPC sudah mampu membuat perencanaan produksi dan sudah ditahapan Scheduling hasil Routing untuk menentukan waktu yang akan dilakukan namun belum sesuai dengan standar dalam pengembangan projek",
+                        "level" : "DEFINED",
+                        "score" : 30,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 4,
+                        "label" : "D",
+                        "value" : "PPC sudah mampu membuat perencanaan produksi dan sudah ditahapan Dispatching atau memulai proses produksi berdasarkan hasil Routinh dan Scheduling serta sudah sesuai dengan standar namun belum dilakukan evaluasi dalam pengembangan projek",
+                        "level" : "MANAGED",
+                        "score" : 40,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 5,
+                        "label" : "E",
+                        "value" : "PPC sudah berhasil sampai ditahapan Follow-Up, terstandarisasi, dan dapat melakukan evaluasi hasil controlling dan memberikan solusi atas permasalahan yang didapat dalam pengembangan projek",
+                        "level" : "OPTIMIZED",
+                        "score" : 50,
+                        "type" : "technology"
+                    }
+                ]
+            },
+            {
+                "id" : 5,
+                "text" : "Operating System (OS) Selection",
+                "ask" : "Dalam mencapai kesiapan implementasi ERP modul produksi, bagaimana penilaian anda terhadap peran Operating System (OS) dalam pengembangan projek ERP?",
+                "picture" : "https://img.freepik.com/premium-vector/laptop-table-with-smartphone-vector-illustration-technology-background_34480-207.jpg",
+                "options" : [
+                    {
+                        "id" : 1,
+                        "label" : "A",
+                        "value" : "OS yang digunakan belum mampu memenuhi kebutuhan implementasi ERP modul produksi dalam pengembangan projek",
+                        "level" : "INITIAL",
+                        "score" : 10,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 2,
+                        "label" : "B",
+                        "value" : "OS yang digunakan cukup mampu memenuhi kebutuhan implementasi ERP modul produksi dalam pengembangan projek",
+                        "level" : "REPEATABLE",
+                        "score" : 20,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 3,
+                        "label" : "C",
+                        "value" : "OS yang digunakan sudah mampu memenuhi dan mendukung kebutuhan fungsi implementasi ERP modul produksi namun belum sesuai standar dalam pengembangan projek",
+                        "level" : "DEFINED",
+                        "score" : 30,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 4,
+                        "label" : "D",
+                        "value" : "OS yang digunakan sudah mampu memiliki tingkat fleksibilitas yang tinggi dalam beradaptasi dengan sistem dan sudah terstandarisasi namun belum dapat melakukan evaluasi dalam pengembangan projek",
+                        "level" : "MANAGED",
+                        "score" : 40,
+                        "type" : "technology"
+                    },
+                    {
+                        "id" : 5,
+                        "label" : "E",
+                        "value" : "OS yang dipilih sudah terintegrasi, terstandarisasi, dan berhasil melakukan proses evaluasi terkait kekurangan sistem dan mendukung kerja sama dengan sistem eksternal dalam pengembangan projek",
+                        "level" : "OPTIMIZED",
+                        "score" : 50,
+                        "type" : "technology"
+                    }
+                ]
+            }
+        ]
+    }
+]

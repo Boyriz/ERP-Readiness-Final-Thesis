@@ -1,0 +1,129 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id                  Int         @id @default(autoincrement())
+  firstname           String
+  lastname            String
+  email               String       @unique
+  hash                String
+  hashedRt            String?
+  createdAt           DateTime     @default(now())
+  updatedAt           DateTime     @updatedAt
+  readinessId         Int?
+  Assessment          Assessment []
+  Readiness           Readiness?   @relation(fields: [readinessId], references: [id])
+
+  @@map("users")
+}
+
+model Readiness {
+  id                 Int             @id @default(autoincrement()) @map("number")
+  result             String
+  createdAt          DateTime        @default(now())
+  updatedAt          DateTime        @updatedAt
+  numberOfInitial    Int
+  numberOfRepeatable Int
+  numberOfDefined    Int
+  numberOfManaged    Int
+  numberOfOptimized  Int
+  totalScore         Int
+  avgScore           Int
+  maturityLevel      String
+  role               String
+  recommendationId   Int?
+  scoreId            Int?
+  User               User[]
+  Recommendation     Recommendation? @relation(fields: [recommendationId], references: [id])
+  Score              Score?          @relation(fields: [scoreId], references: [id])
+
+  @@map("readiness")
+}
+
+model Assessment {
+  id          Int        @id @default(autoincrement())
+  userId      Int?
+  indicatorId Int?
+  scoreId     Int?
+  Level       Level[]
+  User        User?      @relation(fields: [userId], references: [id])
+  Indicator   Indicator? @relation(fields: [indicatorId], references: [id])
+  Score       Score?     @relation(fields: [scoreId], references: [id])
+
+  @@map("assessments")
+}
+
+model Level {
+  id           Int         @id @default(autoincrement())
+  assessmentId Int?
+  initial      Int
+  repeatable   Int
+  defined      Int
+  managed      Int
+  optimized    Int
+  Assessment   Assessment? @relation(fields: [assessmentId], references: [id])
+
+  @@map("levels")
+}
+
+model Indicator {
+  id         Int          @id @default(autoincrement())
+  optionsId  Int?
+  Indicator  String
+  Assessment Assessment[]
+  Answers    Answers?     @relation(fields: [optionsId], references: [id])
+
+  @@map("indicators")
+}
+
+model Answers {
+  id        Int         @id @default(autoincrement())
+  level     String
+  score     Int
+  value     String
+  Indicator Indicator[]
+
+  @@map("options")
+}
+
+model Score {
+  id               Int             @id @default(autoincrement())
+  recommendationId Int?
+  score            Int
+  average_score    Int
+  maturity_level   String
+  Assessment       Assessment[]
+  Recommendation   Recommendation? @relation(fields: [recommendationId], references: [id])
+  Readiness        Readiness[]
+
+  @@map("scores")
+}
+
+model Recommendation {
+  id         Int         @id @default(autoincrement())
+  dimension  String
+  maturityId Int?
+  Score      Score[]
+  Readiness  Readiness[]
+  Maturity   Maturity?   @relation(fields: [maturityId], references: [id])
+
+  @@map("recommendations")
+}
+
+model Maturity {
+  id             Int              @id @default(autoincrement())
+  level          String
+  recommendation String
+  Recommendation Recommendation[]
+
+  @@map("maturity_level")
+}
